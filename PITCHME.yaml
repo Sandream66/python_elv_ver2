@@ -1,0 +1,7 @@
+logo : https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/logo.png
+
+footnote : "@ 2019 Let's start Python"
+
+slide.number : true
+
+theme-override : css/PITCHME.css
